@@ -19,7 +19,7 @@ public class Balls {
 	//Test
 }
 
-// another test
+// another tes
 
 class BounceThreadFrame extends JFrame {
 	
