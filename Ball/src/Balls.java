@@ -16,13 +16,9 @@ public class Balls {
 		frame.show();
 		
 	}
-	//Test
-	//Test2
 }
 
-// another tes
-//hopefully final tes
-//i think it works
+// it actually worked
 
 class BounceThreadFrame extends JFrame {
 	
