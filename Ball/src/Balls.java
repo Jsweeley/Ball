@@ -22,6 +22,7 @@ public class Balls {
 
 // another tes
 //hopefully final tes
+//i think it works
 
 class BounceThreadFrame extends JFrame {
 	
